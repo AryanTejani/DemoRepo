@@ -1,5 +1,5 @@
-!This is readme file.\n
-first\n
-second\n
-third\n
+!This is readme file.  
+first   
+second   
+third    
 i am in sub branch and it is good.
